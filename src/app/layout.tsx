@@ -1,6 +1,14 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
+
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Header from "@/components/header";
+import Hero from '@/components/Hero';
+import Footer from '@/components/Footer';
+
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -28,7 +36,13 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        
+        <Header/>
         {children}
+        <Footer/>
+        
+        
+        
       </body>
     </html>
   );
