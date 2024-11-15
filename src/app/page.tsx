@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero"
-import Header from "@/components/header"
+import Header from "@/components/Header"
 import Blogs from "@/components/Blogs"
 import Banner from "@/components/Bannner"
 

@@ -1,11 +1,7 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
-
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import Header from "@/components/header";
-import Hero from '@/components/Hero';
+import Header from "@/components/Header";
 import Footer from '@/components/Footer';
 
 
