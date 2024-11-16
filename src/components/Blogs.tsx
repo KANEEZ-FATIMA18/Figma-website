@@ -270,7 +270,7 @@ export default function Blogs() {
           {/* text */}
           <div className="items-center py-[24px]">
             <h1 className="text-[16px] font-medium  text-[#000000] ">
-              Apple iPad 9 10.2" 64GB Wi-Fi Silver (MK2L3) 2021
+              Apple iPad 9 10.2 64GB Wi-Fi Silver (MK2L3) 2021
             </h1>
             <h2 className="text-[24px] font-semibold text-[#000000] ">$900</h2>
             <button className="w-[188px] h-[48px] px-[64px] py-[12px] font-medium text-[14px] bg-[#000000] text-[#ffffff] rounded-md my-[24px] ">

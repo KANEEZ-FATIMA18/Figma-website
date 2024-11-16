@@ -37,7 +37,7 @@ export default function Second() {
                 Apple AirPods <span className="font-semibold">Max</span>
               </h1>
               <p className="w-[160px] h-[48px] text-[14px] font-medium text-[#909090]">
-                Computational audio. Listen, it's powerful
+                Computational audio. Listen its powerful
               </p>
             </div>
           </div>

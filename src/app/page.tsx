@@ -1,8 +1,6 @@
 import Hero from "@/components/Hero"
-import Header from "@/components/header"
 import Blogs from "@/components/Blogs"
 import Banner from "@/components/Bannner"
-
 import Second from "@/components/Second"
 import Category from "@/components/Category"
 import Discount from "@/components/Discount"
@@ -13,8 +11,7 @@ export default function Home(){
     <div>
       <Hero/>
       <Second/>
-      <Category/>
-      
+      <Category/> 
       <Blogs/>
       <Banner/>
       <Discount/>
